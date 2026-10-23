@@ -220,7 +220,7 @@ input[type='text'] {
 }
 
 .delete-btn {
-  background: #fee2e2 !important;
+  background: #fee2e2;
 }
 
 .completed {
